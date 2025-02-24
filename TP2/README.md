@@ -16,3 +16,17 @@
 
 
 ## Funcionalidades
+
+### Função `read_data`
+
+- Lê o conteúdo do arquivo CSV e converte cada linha em uma lista.
+- Retorna uma lista de listas, representando os dados dos atletas, excluindo o cabeçalho.
+
+### Função `listar_alfabeticamente`
+- Organiza as obras por ordem alfabetica
+
+### Função `distribuicao_obras`
+- Organiza as obras por periodos dizendo quantas obras é que têm por periodo
+
+### Função `dicionario_por_periodo`
+- Organiza as obras por periodos por ordem alfabetica
